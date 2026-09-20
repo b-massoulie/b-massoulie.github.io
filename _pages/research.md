@@ -3,27 +3,27 @@ permalink: /research/
 title: "Research"
 ---
 
-> ## <span style="font-variant:small-caps;">Publications and prepublications:</span>
+> ## Publications and prepublications
 
-- Brune Massoulié, Clément Erignoux, Cristina Toninelli, Werner Krauth, *Velocity trapping in the lifted TASEP and the true self-avoiding random walk*, Physical Review Letters 135, no. 12 (2025) <https://doi.org/10.1103/mqdr-x95j>
+- Brune Massoulié, Clément Erignoux, Cristina Toninelli, Werner Krauth, *Velocity trapping in the lifted TASEP and the true self-avoiding random walk*, Physical Review Letters 135, no. 12 (2025) <https://doi.org/10.1103/mqdr-x95j>.
 
 - Brune Massoulié, *Cutoff for the mixing time of the Facilitated Exclusion Process*, Stochastic Processes and their Applications, Vol. 197 (2026) 104933, <https://doi.org/10.1016/j.spa.2026.104933>. Arxiv version available [here](https://arxiv.org/abs/2412.04032).
 
 - Clément Erignoux, Brune Massoulié, *Cutoff for the transience and mixing time of a SSEP with traps and consequences on the FEP*, [arXiv:2403.20010](https://arxiv.org/abs/2403.20010), *accepted in Annales de l'Institut Henri Poincaré*.
 
-- Quentin Berger, Brune Massoulié, *Wetting on a wall and wetting in a well: Overview of equilibrium properties*, , Stochastic Processes and their Applications, Vol. 170 (2024), Special issue in tribute to Francis Comets, <https://doi.org/10.1016/j.spa.2024.104299>
+- Quentin Berger, Brune Massoulié, *Wetting on a wall and wetting in a well: Overview of equilibrium properties*, Stochastic Processes and their Applications, Vol. 170 (2024), Special issue in tribute to Francis Comets, <https://doi.org/10.1016/j.spa.2024.104299>.
 
-- P. Carlotti, B. Massoulié, A. Morez, A. Villaret, L. Jing, T. Vrignaud, A. Pfister, *Respiratory pandemic and indoor aeraulics of classrooms*, Building and Environment, Vol. 212 (2022), <https://doi.org/10.1016/j.buildenv.2022.108756>
+- P. Carlotti, B. Massoulié, A. Morez, A. Villaret, L. Jing, T. Vrignaud, A. Pfister, *Respiratory pandemic and indoor aeraulics of classrooms*, Building and Environment, Vol. 212 (2022), <https://doi.org/10.1016/j.buildenv.2022.108756>.
 
-> ## <span style="font-variant:small-caps;">PhD thesis:</span>
+> ## PhD thesis
 Brune Massoulié, *[Macroscopic behaviour and timescales of interacting particle systems](https://theses.hal.science/tel-05666373v1)*, 2026
 
-> ## <span style="font-variant:small-caps;">Conference and seminar organisation:</span> 
+> ## Conference and seminar organisation
 
 - I co-organised the workshop Recent Progress on Self-interacting processes and non-reversible Monte Carlo in Paris, 18-20 May 2026, see the [webpage](https://www.ceremade.dauphine.fr/dokuwiki/psl-spm:confselfinter2026)
 - I co-organised the Young Researcher Seminar of the CEREMADE from 2024 to 2025, see the [webpage](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html)
 
-> ## <span style="font-variant:small-caps;">Talks:</span> 
+> ## Talks
 
 - [Random Interacting Systems](https://sites.google.com/view/ris-school-26/home), Padova - September 2026
 - [Journées MAS](https://mas2026.sciencesconf.org/?lang=fr), Lyon - August 2026
@@ -52,7 +52,7 @@ Brune Massoulié, *[Macroscopic behaviour and timescales of interacting particle
 - [Après-midi des lycéennes à Dauphine](https://www.ceremade.dauphine.fr/fr/actualites/apres-midi-des-lyceennes-dauphine-2024.html) - February 2024
 - [Young Researchers Seminar of the CEREMADE](https://sites.google.com/view/ceremade-yrs) - October 2023
 
-> ## <span style="font-variant:small-caps;">Posters:</span>
+> ## Posters
 
 - [Particle systems and PDEs (PSPDE)](https://sites.google.com/view/pspdexiii/home), Modena - December 2025
 - [Conference on Mixing Times between Probability, Computer Science and Statistical Physics](https://indico.ictp.it/event/10831/), Trieste - May 2025
