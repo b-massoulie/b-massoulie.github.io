@@ -5,7 +5,7 @@ classes: wide
 toc: false
 ---
 
-## Who am I?
+<h2>Who am I?</h2>
 
 I am a postdoctoral researcher at the [University of Augsburg](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/sto/team/brune/), working with Dominik Schmid on mixing times of interacting particle systems. 
 
