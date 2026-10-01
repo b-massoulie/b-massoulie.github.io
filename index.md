@@ -7,7 +7,7 @@ toc: false
 
 <h2>Who am I?</h2>
 
-I am a postdoctoral researcher at the [University of Augsburg](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/sto/team/brune/), working with Dominik Schmid on mixing times of interacting particle systems. 
+I am a postdoctoral researcher at the [University of Augsburg](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/sto/team/brune/) and the [Technical University of Munich](https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=A6E8769CDDA26F0E), working with Dominik Schmid and Nina Gantert on mixing times of interacting particle systems. 
 
 I obtained my PhD in June 2026 at Dauphine University, under the supervision of Cristina Toninelli and Clément Erignoux. You can find the manuscript [here](https://theses.hal.science/tel-05666373v1). 
 
