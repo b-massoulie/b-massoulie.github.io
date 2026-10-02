@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Brune Massoulié
-subtitle: brune [dot] massoulie [at] uni-a [dot] de
+subtitle: brune [dot] massoulie [at] uni-a [dot] de ; brune [dot] massoulie [at] tum [dot] de
 description: >- # this means to ignore newlines until "baseurl:"
   Web page of Brune Massoulié
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,7 +29,8 @@ github_username:  b-massoulie
 author:
   name: "Brune Massoulié"
   avatar: "/assets/images/photo.jpg"
-  location: "University of Augsburg, Germany"
+  location: "University of Augsburg, Germany
+  Technical University of Munich, Germany"
   links:
   - label: "Scholar"
     icon: "fab fa-fw fa-google-scholar"
