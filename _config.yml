@@ -29,10 +29,14 @@ github_username:  b-massoulie
 author:
   name: "Brune Massoulié"
   avatar: "/assets/images/photo.jpg"
-  location: "University of Augsburg, Germany \n
-  Technical University of Munich, Germany"
   links:
-  - label: "Scholar"
+  - label: University of Augsburg
+    icon: "fab fa-fw fa-location-dot"
+    url: "https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/sto/team/brune/"
+  - label: Technical University of Munich
+    icon: "fab fa-fw fa-location-dot"
+    url: "https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=A6E8769CDDA26F0E"
+  - label: "Google Scholar"
     icon: "fab fa-fw fa-google-scholar"
     url: "https://scholar.google.com/citations?user=VE1UVDUAAAAJ&hl=fr" 
 
