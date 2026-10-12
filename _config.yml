@@ -31,10 +31,10 @@ author:
   avatar: "/assets/images/photo.jpg"
   links:
   - label: University of Augsburg
-    icon: "fab fa-fw fa-map-marker"
+    icon: "fas fa-fw fa-map-marker"
     url: "https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/sto/team/brune/"
   - label: Technical University of Munich
-    icon: "fab fa-fw fa-map-marker"
+    icon: "fas fa-fw fa-map-marker"
     url: "https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=A6E8769CDDA26F0E"
   - label: "Google Scholar"
     icon: "fab fa-fw fa-google-scholar"
